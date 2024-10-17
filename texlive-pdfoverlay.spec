@@ -3,7 +3,7 @@ Version:	64210
 Release:	2
 Summary:	A LaTeX style for overlaying text on a PDF
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pdfoverlay
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pdfoverlay
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pdfoverlay.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pdfoverlay.doc.r%{version}.tar.xz
